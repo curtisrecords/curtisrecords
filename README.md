@@ -8,7 +8,6 @@
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Shenyang, China.
 - 💬 Ask me about Java, TypeScript and my projects on [cncurtismusic@gmail.com](mailto:cncurtismusic@gmail.com)
--  [![Curtis CN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Curtis-CN)](https://github.com/Curtis-CN)
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -26,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-### 关于我
+### 关于我 | About Me
 - [技术笔记](https://notes.cts.blue)
 - [网站](https://cts.blue)
 
