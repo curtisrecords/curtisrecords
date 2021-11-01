@@ -4,9 +4,9 @@
 
 I am an **DJ / Producer** as well as a **Coder**.
 
-![CurtisRecords](https://img.shields.io/badge/CurtisRecords-Curtis.CN-313131?style=flat&labelColor=213130&color=313131)
-![CurtisRecords](https://img.shields.io/badge/Visual%20Studio-Code-313131?style=flat&labelColor=213130&color=313131)
-![CurtisRecords](https://img.shields.io/badge/Lisence-Apache2.0%20%2F%20ANTI%20996-313131?style=flat&labelColor=213130&color=313131)
+![CurtisRecords](https://img.shields.io/badge/CurtisRecords-Curtis.CN-000000?style=flat&labelColor=000000&color=000000)
+![CurtisRecords](https://img.shields.io/badge/Visual%20Studio-Code-000000?style=flat&labelColor=000000&color=000000)
+![CurtisRecords](https://img.shields.io/badge/Lisence-Apache2.0%20%2F%20ANTI%20996-000000?style=flat&labelColor=000000&color=000000)
 
 <br>
 
