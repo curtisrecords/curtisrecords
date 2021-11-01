@@ -1,6 +1,5 @@
 ## Hello 👋
 [![Mail Badge](https://img.shields.io/badge/-cncurtismusic@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cncurtismusic@gmail.com)](mailto:cncurtismusic@gmail.com)
----
 <img align="right" alt="JPG" src="https://www.hualigs.cn/image/616a1f2ea7df6.jpg" />
 
 ### I'm Curtis CN
