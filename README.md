@@ -5,9 +5,11 @@
 
 <img align="right" alt="JPG" src="https://www.hualigs.cn/image/616a1f2ea7df6.jpg" />
 
+
 - 💻 A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Shenyang, China.
 - 💬 Ask me about Java, TypeScript and my projects on [cncurtismusic@gmail.com](mailto:cncurtismusic@gmail.com)
+
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -16,4 +18,5 @@
 - [技术笔记](https://notes.cts.blue)
 - [网站](https://cts.blue)
 - [网易音乐人](https://album.cts.blue)
+
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
