@@ -10,4 +10,8 @@ I am an **DJ / Producer** as well as a **Coder**.
 
 <br>
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+![CurtisRecords](https://github-readme-stats.vercel.app/api?username=curtisrecords&count_private=true&show_icons=true&theme=radical)
+
+<br>
+
+> ***If you want to say hi, I'll be happy to meet you more!😊***
