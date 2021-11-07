@@ -8,10 +8,7 @@ I am an **DJ / Producer** as well as a **Coder**.
 ![CurtisRecords](https://img.shields.io/badge/Visual%20Studio-Code-000000?style=flat&labelColor=000000&color=000000)
 ![CurtisRecords](https://img.shields.io/badge/Lisence-Apache2.0%20%2F%20ANTI%20996-000000?style=flat&labelColor=000000&color=000000)
 
-<br>
-
 ![CurtisRecords](https://github-readme-stats.vercel.app/api?username=curtisrecords&count_private=true&show_icons=true&theme=radical)
 
-<br>
 
 > ***If you want to say hi, I'll be happy to meet you more!😊***
