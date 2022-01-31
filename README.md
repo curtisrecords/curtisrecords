@@ -2,7 +2,7 @@
 
 ### Hiiiii!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I am an **DJ / Producer** as well as a **Programmer**.
+I am an **DJ / Producer** as well as a **Programmer**; **Happy New Year !!👨🏻‍🎓**
 
 ![CurtisRecords](https://img.shields.io/badge/CurtisRecords-Curtis.CN-000000?style=flat&labelColor=000000&color=000000)
 ![CurtisRecords](https://img.shields.io/badge/GPGkey-FCEE4D76A65BBA26-000000?style=flat&labelColor=000000&color=000000)
