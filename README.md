@@ -1,6 +1,6 @@
 <img align="left" src="https://s6.jpg.cm/2021/11/01/ICHljk.png">
 
-### Hiiiii!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hiiiii!  👋
 
 I am an **DJ / Producer** as well as a **Programmer**.
 
