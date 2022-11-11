@@ -10,14 +10,14 @@
                    -`
                   .o+`                 curtisasia@archlinux
                  `ooo/                 OS: Arch Linux
-                `+oooo:                Kernel: x86_64 Linux 6.0.2
+                `+oooo:                Kernel: x86_64 Linux 6.0.7-curtisasia-build
                `+oooooo:               Uptime: 114d 5h 14m
                -+oooooo+:              Packages: 5082
              `/:-:++oooo+:             Shell: zsh 5.9
-            `/++++/+++++++:            Disk: 102G / 1T (10%)
+            `/++++/+++++++:            Disk: 172 / 1T
            `/++++++++++++++:           CPU: Common KVM @ 5.000GHz
           `/+++ooooooooooooo/`         GPU: Device 1234:1111 (rev 02)
-         ./ooosssso++osssssso+`        RAM: 4960MiB / 8192MiB
+         ./ooosssso++osssssso+`        RAM: 4096MiB / 8192MiB
         .oossssso-````/ossssss+`
        -osssssso.      :ssssssso.
       :osssssss/        osssso+++.
