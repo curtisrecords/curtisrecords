@@ -7,9 +7,9 @@
                `+oooooo:               Uptime: 114d 5h 14m
                -+oooooo+:              Packages: 5082
              `/:-:++oooo+:             Shell: zsh 5.9
-            `/++++/+++++++:            Disk: 114 / 514G
-           `/++++++++++++++:           CPU: Common KVM @ 5.000GHz
-          `/+++ooooooooooooo/`         GPU: Device 114:514 (rev 114514)
+            `/++++/+++++++:            Disk: 150 / 500G
+           `/++++++++++++++:           CPU: Intel i5-7500 (2) @ 3.408GHz via Proxmox VE
+          `/+++ooooooooooooo/`         GPU: 00:02.0 Vendor 1234 Device 1111
          ./ooosssso++osssssso+`        RAM: 4096MiB / 8192MiB
         .oossssso-````/ossssss+`
        -osssssso.      :ssssssso.
