@@ -20,3 +20,4 @@
  `++:.                           `-/+/
  .`                                 `/
 ```
+formerly a pre-sales engineer/architect (SA) at Huawei Cloud, and an engineer in Tencent’s CSIG division.
